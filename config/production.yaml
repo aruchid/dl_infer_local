@@ -1,0 +1,32 @@
+# 生产环境配置
+version: 1.0.0
+env: "production"
+
+camera:
+  device_id: 0
+  width: 1920
+  height: 1080
+  fps: 30
+  exposure: -6
+  gain: 10
+
+network:
+  tcp:
+    port: 8080
+    ip: "0.0.0.0"  # 允许外部连接
+  udp:
+    port: 8081
+    ip: "0.0.0.0"
+
+inference:
+  model_path: "/opt/models/model.engine"
+  enable_tensorrt: true
+
+display:
+  show_fps: false
+  show_detection: true
+  debug_view: false
+
+log:
+  level: "info"
+  enable_console: false 

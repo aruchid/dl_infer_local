@@ -1,0 +1,6 @@
+D:/svnpusher/zong_branch/txr_algo_dlm/cmake-build-debug/CMakeFiles/txr_algo_dlm.dir
+D:/svnpusher/zong_branch/txr_algo_dlm/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/svnpusher/zong_branch/txr_algo_dlm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/svnpusher/zong_branch/txr_algo_dlm/cmake-build-debug/CMakeFiles/list_install_components.dir
+D:/svnpusher/zong_branch/txr_algo_dlm/cmake-build-debug/CMakeFiles/install.dir
+D:/svnpusher/zong_branch/txr_algo_dlm/cmake-build-debug/CMakeFiles/install/local.dir

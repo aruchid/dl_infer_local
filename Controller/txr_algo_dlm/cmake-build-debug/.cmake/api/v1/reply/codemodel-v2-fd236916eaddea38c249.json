@@ -1,0 +1,57 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-232dc4b1f4fb82f5f540.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "txr_algo_dlm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-txr_algo_dlm-Debug-fa276a524c8d37b8133e.json",
+					"name" : "txr_algo_dlm",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/svnpusher/zong_branch/txr_algo_dlm/cmake-build-debug",
+		"source" : "D:/svnpusher/zong_branch/txr_algo_dlm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

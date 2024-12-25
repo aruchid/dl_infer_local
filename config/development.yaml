@@ -1,0 +1,32 @@
+# 开发环境配置
+version: 1.0.0
+env: "development"
+
+camera:
+  device_id: 0
+  width: 1280
+  height: 720
+  fps: 30
+  exposure: -6
+  gain: 10
+
+network:
+  tcp:
+    port: 8080
+    ip: "127.0.0.1"
+  udp:
+    port: 8081
+    ip: "127.0.0.1"
+
+inference:
+  model_path: "../models/model_dev.engine"
+  enable_tensorrt: false  # 开发环境禁用TensorRT加速
+
+display:
+  show_fps: true
+  show_detection: true
+  debug_view: true  # 开发环境显示调试信息
+
+log:
+  level: "debug"
+  enable_console: true 
